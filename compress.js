@@ -1,6 +1,7 @@
 /*
 Author insanehong <insanehong@gmail.com>
 LICENSE under BSD
+woozy
 */
 function compress(str) {
   var repeat = 1;
